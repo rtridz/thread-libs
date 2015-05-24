@@ -1,3 +1,7 @@
+"""
+./dll_injector <PID> <Path to DLL>
+"""
+
 import sys
 from ctypes import *
 
